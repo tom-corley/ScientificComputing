@@ -11,6 +11,6 @@ These projects were originally developed as part of a **Scientific Computing mod
 - A2: Array manipulation and algorithms (mirroring arrays, moving sums, range counting).
 - A3: Debugging assignment on PDE solver, with detailed error tracking and code corrections.
 - A4: Implicit solvers for coupled diffusion equation using banded matrices and LAPACK routines, includes various gifs showing evolution of PDEs.
-- A5: Solution of a modified heat equation over curved surfaces. Includes a Jupyter notebook for data processing and plotting results.
+- A5: Solution of a modified heat equation over curved surfaces. Includes a Python Jupyter notebook for data processing and plotting results.
 
 ---
